@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryne</h1>
-<h3 align="center">A passionate frontend developer from North Carolina</h3>
+<h3 align="center">A passionate full stack developer from North Carolina</h3>
 
 - 👨‍💻 All of my projects are available at [https://rynelocklear.netlify.app/](https://rynelocklear.netlify.app/)
 
